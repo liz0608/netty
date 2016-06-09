@@ -1,4 +1,4 @@
-package com.turtle.netty.nio;
+package com.turtle.netty.bio;
 
 import java.io.IOException;
 import java.net.ServerSocket;
